@@ -1,0 +1,14 @@
+streamlit
+streamlit_chat
+langchain
+pandas
+tqdm
+python-dotenv
+faiss-cpu
+tiktoken
+tabulate
+unstructured
+pdf2image
+openai==0.27.8
+langchain==0.0.240
+#pinecone
